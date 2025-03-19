@@ -1,5 +1,5 @@
 body {
-	color: white;
+	color: cornsilk;
 	background: black;
 
 	max-width: 800px;
@@ -8,13 +8,22 @@ body {
 }
 
 h1 {
-	color: red;
+	color: yellowgreen;
 
 	text-align: center;
 }
 
 h2 {
-	color: red;
+	color: yellowgreen;
+}
+
+a:link {
+  color: skyblue;
+}
+
+/* visited link */
+a:visited {
+  color: plum;
 }
 
 .center {
