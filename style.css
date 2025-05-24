@@ -1,4 +1,11 @@
+@font-face {
+    font-family: 'Luciole-Regular';
+    src: url('fonts/Luciole-Regular.woff') format('woff');
+}
+
 body {
+	font-family: 'Luciole-Regular', sans-serif;
+
 	color: cornsilk;
 	background: darkslategray;
 
