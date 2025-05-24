@@ -1,6 +1,6 @@
 body {
 	color: cornsilk;
-	background: black;
+	background: darkslategray;
 
 	max-width: 800px;
 	margin-left: auto;
@@ -8,22 +8,22 @@ body {
 }
 
 h1 {
-	color: yellowgreen;
+	color: darkkhaki;
 
 	text-align: center;
 }
 
 h2 {
-	color: yellowgreen;
+	color: darkkhaki;
 }
 
 a:link {
-  color: skyblue;
+  color: lightskyblue;
 }
 
 /* visited link */
 a:visited {
-  color: plum;
+  color: thistle;
 }
 
 .center {
